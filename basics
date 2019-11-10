@@ -3,6 +3,7 @@
 <body>
 
 <h1>My First Heading</h1>
+<h2>Today I will learn about the basics of a HTML page.</h2>
 <p>My first paragraph.</p>
 <p>testing<br>an empty element</p>
 <a href="https://www.google.com">My first link</a>
